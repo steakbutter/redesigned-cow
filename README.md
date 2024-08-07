@@ -1,4 +1,4 @@
-# Redesign Cow
+# Redesign Cow PWA
 
 ## Description
 
